@@ -4,5 +4,6 @@ adding new file to test merging
 
 changing in master repo
 
-anging in b1 branch
+changing in b1 branch
 
+changing in remote repo
