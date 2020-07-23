@@ -7,3 +7,5 @@ changing in master repo
 changing in b1 branch
 
 changing in remote repo
+
+test poll scm in jenkins
